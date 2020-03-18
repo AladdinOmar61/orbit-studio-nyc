@@ -1,0 +1,41 @@
+html {
+  background: url(https://i.imgur.com/jZ4IdeA.jpg);
+  background-size: cover;
+}
+
+body {
+  overscroll-behavior-y: none;
+}
+
+.logo {
+  width: 350px;
+  height: 350px;
+}
+
+.menu-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8%;
+}
+
+.header-nav {
+  list-style-type: none;
+}
+
+.header-link {
+  text-decoration: none;
+  color: black;
+}
+
+.main-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.about {
+  text-align: center;
+}
