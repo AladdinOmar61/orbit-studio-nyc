@@ -2,6 +2,7 @@ import React from "react";
 import { Link, Route } from "react-router-dom";
 import About from './About';
 import Home from './Home';
+import Services from './Services';
 
 function Header() {
   return (
@@ -15,6 +16,7 @@ function Header() {
         <main>
             <Route exact path="/" render={() => <Home/>}></Route>
             <Route path="/about" render={() => <About/>}></Route>
+            <Route path="/services offered" render={() => <Services/>}></Route>
         </main>
       </nav>
     </div>

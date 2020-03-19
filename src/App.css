@@ -39,3 +39,18 @@ body {
 .about {
   text-align: center;
 }
+
+.about-div {
+  background: white;
+  opacity: 0.5;
+  height: 50vh;
+  margin: 0 10%;
+  background-size: cover;
+  padding-top: 5%;
+}
+
+.about-p {
+  color: black;
+  font-size: 40px;
+  margin: 0 10%;
+}

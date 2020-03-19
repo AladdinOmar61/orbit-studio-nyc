@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import {Route} from 'react-router-dom';
 import Header from './components/Header';
-import Home from './components/Home';
 
 class App extends Component {
   constructor(props) {
