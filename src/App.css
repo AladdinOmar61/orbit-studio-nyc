@@ -54,3 +54,22 @@ body {
   font-size: 40px;
   margin: 0 10%;
 }
+
+.services {
+  text-align: center;
+}
+
+.services-div {
+  background: white;
+  opacity: 0.5;
+  height: 50vh;
+  margin: 0 10%;
+  background-size: cover;
+  padding-top: 5%;
+}
+
+.services-p {
+  color: black;
+  font-size: 40px;
+  margin: 0 10%;
+}
