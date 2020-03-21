@@ -73,3 +73,12 @@ body {
   font-size: 40px;
   margin: 0 10%;
 }
+
+.contact {
+  background: white;
+  opacity: 0.5;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 6px;
+  margin-top: 20px;
+}
